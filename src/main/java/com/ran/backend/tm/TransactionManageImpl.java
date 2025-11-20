@@ -1,9 +1,8 @@
-package com.ran.tm;
+package com.ran.backend.tm;
 
 import com.ran.common.Exceptions;
-import com.ran.utils.Panic;
-import com.ran.utils.Parser;
-import com.sun.xml.internal.ws.wsdl.parser.ParserUtil;
+import com.ran.backend.utils.Panic;
+import com.ran.backend.utils.Parser;
 
 import java.io.IOException;
 import java.io.RandomAccessFile;

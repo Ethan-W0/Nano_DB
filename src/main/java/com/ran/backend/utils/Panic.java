@@ -1,4 +1,4 @@
-package com.ran.utils;
+package com.ran.backend.utils;
 
 public class Panic {
     public static void panic(Exception e){
